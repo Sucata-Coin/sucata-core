@@ -1,0 +1,1118 @@
+Copyright © 2013-2016 The Nxt Core Developers.
+Copyright © 2016-2018 Jelurida IP B.V.
+Copyright © 2018 Sandoche ADITTANE and Farbod SARAF, Coingenerator.sh
+Copyright © 2020 Fundação Sucata
+
+This program is distributed under the terms of the Jelurida Public License
+version 1.1 for the Sbr Public Blockchain Platform.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Please contact Jelurida B.V. at info@jelurida.com for commercial licensing
+options if the Jelurida Public License does not fit your private blockchain
+needs.
+
+The client UI component of this software, located under /html/www, is
+distributed under the MIT license, a copy of which is available under
+/html/www/LICENSE.txt.
+
+This software also uses third party code and libraries, distributed under
+licenses described in 3RD-PARTY-LICENSES.txt.
+
+Below is the full text of the Jelurida Public License version 1.1 for
+the Sbr Public Blockchain Platform:
+
+
+JELURIDA PUBLIC LICENSE
+
+Preamble:
+
+Being a company engaged predominantly in the creation of blockchain technology,
+Jelurida IP B.V. has prepared the following “coinleft” license whose goal is to
+implement new requirements consistent with the specific nature of the blockchain
+software. We recognize the fundamental advantages that the decentralized ledger
+technology has to offer and we truly believe in its potential to change the
+world for the better. Therefore we wish to continue the already established
+tradition to publish blockchain software as an open source and in this way to
+give our contribution to the further development of the blockchain technology
+world-wide. At the same time we wish to protect our IP rights and to address the
+fact that our software was copied many times during its existence and as a
+result a lot of “clones” have been created which dilute the value of the tokens
+with no significant technological improvements behind them.
+
+The exact terms and conditions for using, copying and modification follow:
+
+
+TERMS AND CONDITIONS
+
+
+I. General Conditions
+
+
+Introduction
+
+The existent copyleft licensing models were designed to protect the value of the
+code which is created in open source projects. They make sure anyone who builds
+on top of this code also releases their code under the same copyleft license,
+thus sharing back with the community and the developers of the original project
+the added value of the derived work.
+
+Copyleft licenses however were created long before crypto currency and
+blockchain technologies appeared, and could not have anticipated the fact that
+today the value of an open source distributed ledger project is contained not
+only in the program code being written, but in the unique public blockchain
+instance or crypto currency token, maintained by this project, with its
+developers, community and holders sharing the common interest to preserve and
+increase the value of this blockchain token.
+
+Crypto currency tokens today have value of their own, people can buy, sell and
+invest in them and the unlimited permission of cloning the existing blockchain
+platforms and creating new coins inevitably results in decreasing the value of
+the original tokens.
+
+Crypto currency tokens are also an inseparable part of each distributed ledger
+software, without which such software cannot really be used. Ensuring that a
+clone project shares back the modified source code is no longer sufficient to
+allow the users of the original project access to that derived work, unless they
+are also allocated some of the newly created tokens in the clone blockchain
+instance. Thus such allocation is important in order to preserve not only the
+value of the original tokens, but also to preserve the users freedom to use any
+works derived from the original software.
+
+With the above being said, the terms and conditions for using, copying and
+modification of distributed ledger software programs are outlined below, called
+the Jelurida Public License (JPL). The JPL is inspired by the GNU General Public
+License versions 2 and 3, with adaptations specifically aimed at application of
+the license to distributed ledger software programs; as such the GNU General
+Public License and any other license terms and conditions other than this JPL
+are explicitly excluded.
+
+
+JPL version: 1.1
+
+
+Article 0. Definitions:
+
+“based on [the Program/Covered Work/…]” means derived from the original Covered
+Work (or part thereof) by the act(s) of copying it, modifying it, including it
+(in whole or in part) or by linking to the original Covered Work (or part
+thereof).
+
+“to convey”: To convey a work means any kind of propagation that enables other
+parties to make or receive copies. Mere interaction with a user through a
+computer network, with no transfer of a copy, is not conveying.
+
+Copyright Holder, Licensor: The owner of the IP rights over the software as
+determined by applicable national law and international treaty provisions
+regulating this subject matter.
+
+Corresponding Source: The Corresponding Source for a work in Object Code form
+means all the Source Code needed to generate, install, and (for an executable
+work) run the Object Code and to modify the work, including scripts to control
+those activities. However, it does not include the work's System Libraries, or
+general-purpose tools or generally available free programs which are used
+unmodified in performing those activities but which are not part of the work.
+For example, Corresponding Source includes interface definition files associated
+with source files for the work, and the Source Code for shared libraries and
+dynamically linked subprograms that the work is specifically designed to
+require, such as by intimate data communication or control flow between those
+subprograms and other parts of the work. The Corresponding Source need not
+include anything that users can regenerate automatically from other parts of the
+Corresponding Source. The Corresponding Source for a work in Source Code form is
+that same work.
+
+Covered Work: A DLT Software or another Program based on a DLT or otherwise, or
+based on another Covered Work, their Object Code and Source Code, and any other
+work covered by this License according to their terms.
+
+DLT Instance: Unique instance of distributed ledger consisting of a network of
+one or more participants (nodes) running a particular DLT Software and which
+nodes are in a state of consensus with each other within the permitted
+tolerances of the applicable consensus algorithm. An example of such DLT
+instance is the Sbr public blockchain.
+
+DLT Software: Any distributed ledger computer technology including but not
+limited to blockchain technology regardless of the way the consensus is
+established.
+
+General Conditions: Chapter I. General Conditions of this License.
+
+License: This Jelurida Public License (JPL) consisting of both General
+Conditions and Special Conditions.
+
+Licensee, You: Everyone (natural person or legal entity) who wants to use, copy,
+distribute, modify or build on top of the Program.
+
+“to modify”: To modify a work means to copy from or adapt all or part of the
+work in a fashion requiring copyright permission, other than the making of an
+exact copy. The resulting work is called a “modified version” of the earlier
+work or a “work based on” the earlier work. Modification also includes
+translation into another programming language or human language.
+
+Object Code: Any non-Source Code form of a work.
+
+Program: Any copyrightable work licensed under this License.
+
+“to propagate”: To propagate a work means to do anything with it that, without
+permission, would make you directly or secondarily liable for infringement under
+applicable copyright law, except executing it on a computer or modifying a
+private copy. Propagation includes copying, distribution (with or without
+modification), making available to the public, and in some countries other
+activities as well.
+
+Source Code: The Source Code for a work means the preferred form of the work for
+making modifications to it.
+
+Special Conditions: Chapter II. Special Conditions of this License which
+contains additional provisions required and adapted by the Licensor according to
+the specific Covered Work they are applicable to.
+
+Standard Interface: An interface that either is an official standard defined by
+a recognized standards body, or, in the case of interfaces specified for a
+particular programming language, one that is widely used among developers
+working in that language.
+
+System Libraries: Libraries of an executable work, other than the work as a
+whole, that (a) are included in the normal form of packaging a Major Component,
+but which are not part of that Major Component, and (b) serve only to enable use
+of the work with that Major Component, or to implement a Standard Interface for
+which an implementation is available to the public in Source Code form. A Major
+Component, in this context, means a major essential component (kernel, window
+system, and so on) of the specific operating system (if any) on which the
+executable work runs, or a compiler used to produce the work, or an Object Code
+interpreter used to run it.
+
+
+Article 1. Scope of the License:
+
+1.1 This License applies to any Covered Work or other work which contains a
+notice placed by the Copyright Holder saying it may be used, propagated,
+conveyed or modified only under the terms of this License. It also applies to
+any work which is not a DLT per se but is still a Covered Work because it is
+based on the covered DLT Software or contains a portion of it. This is to ensure
+that if such work is included into another DLT Software that DLT Software must
+satisfy the below stated airdrop requirement and other terms of this License.
+
+1.2. All rights granted under this License are granted for the term of copyright
+on the Covered Work, and are irrevocable provided the conditions of this License
+are met.
+
+1.3 The act of running a Program is not restricted as long as it does not
+violate Article 3.4 of the General Conditions, and the output from a Program is
+covered only if its contents constitute a work based on the Program (independent
+of having been made by running the Program). Whether that is true depends on
+what the Program does.
+
+1.4 Conveying is permitted solely under the conditions stated herein.
+Sublicensing is not allowed; Article 7 of the General Conditions makes it
+unnecessary.
+
+1.5 No Covered Work shall be deemed part of an effective technological measure
+under any applicable law fulfilling obligations under article 11 of the WIPO
+copyright treaty adopted on 20 December 1996, or similar laws prohibiting or
+restricting circumvention of such measures. When you convey a Covered Work, you
+waive any legal power to forbid circumvention of technological measures to the
+extent such circumvention is effected by exercising rights under this License
+with respect to the Covered Work, and you disclaim any intention to limit
+operation or modification of the work as a means of enforcing, against the
+work's users, your or third parties' legal rights to forbid circumvention of
+technological measures.
+
+
+Article 2.
+
+2.1 You may copy and distribute verbatim copies of the Covered Work’s Source
+Code as you receive it, in any medium, provided that you conspicuously and
+appropriately publish on each copy an appropriate copyright notice and
+disclaimer of warranty; keep intact all the notices that refer to this License
+and to the absence of any warranty; and give any other recipients of the Covered
+Work a copy of this License along with the Covered Work.
+
+2.2 You must keep intact all authorship and copyright notices and when conveying
+or offering to convey copies (verbatim or modified) you must also avoid any
+misrepresentation of the origin of the Covered Work. You must make sure that any
+modified versions of such Covered Work are marked in reasonable ways as
+different from the original version and they do not imply any endorsement or
+support by the Copyright Holder regarding this modified work.
+
+2.3 You may charge a fee for the physical act of transferring a copy (for the
+avoidance of doubt, such physical act of transfer may include making the copy
+available on your website or otherwise), and you may at your discretion and
+responsibility offer support or warranty protection in exchange for a fee. You
+are not allowed to charge any fee for granting the right to further use,
+propagate, convey or modify the copy then obtained by the acquirer, as such
+would be against the intention of this License.
+
+
+Article 3. You may modify your copy or copies of the Covered Work or any portion
+of it, thus forming a work based on the Covered Work, and copy and distribute
+such modifications or work under the terms of Article 2 above, provided that you
+also meet all of these conditions:
+
+3.1 You must cause the modified files to carry prominent notices stating that
+you changed the files and the date of any change.
+
+3.2 You must cause any work that you distribute or publish, that in whole or in
+part contains or is derived from the Covered Work or any part thereof, to be
+licensed as a whole at no charge to all third parties under the terms of this
+License.
+
+3.3 If the modified program normally reads commands interactively when run, you
+must cause it, when started running for such interactive use in the most
+ordinary way, to print or display an announcement including an appropriate
+copyright notice and a notice that there is no warranty (or else, saying that
+you provide a warranty) and that users may redistribute the program under the
+conditions of this License, and telling the user how to view a copy of this
+License. (Exception: if the Covered Work itself is interactive but does not
+normally print such an announcement, your work based on the Covered Work is not
+required to print an announcement.) If the program has graphical user interface
+any such notices should be placed in an about dialog or similar.
+
+3.4 If the Covered Work is a DLT Software, after your modifications it must
+continue to work with the original DLT Instance without violating the consensus
+algorithm or resulting in a permanent fork. For the purpose of this clause
+modification also includes changing the configuration or network environment in
+which the Covered Work is run that results in permanent disconnection, fork or
+isolation from the original DLT Instance. If your modifications result in a
+different DLT Instance you must satisfy the following airdrop requirement:
+
+3.4.1 The token holders from the original distributed ledger instance shall be
+allocated a portion (an "airdrop") of the tokens in that new DLT Instance
+proportional to their token balances. This shall also apply to anyone who
+intends to make a copy of your copy, i.e. any such person needs to allocate the
+same airdrop of the newly created tokens to the account holders from the
+original DLT Instance (not to your copy). If the Covered Work is not a DLT
+Software per se this requirement still applies to any other work based on or
+including this work or portions of it which is a DLT Software or in any other
+way distributes tokens to its users. The specific percentage of the airdrop
+and the tokens to which it applies, which may also depend on how the new DLT
+Instance relates to the original one, are defined in the Special Conditions.
+
+3.5 All other provisions, designated in the Special Conditions and consistent
+with the specific requirements arising from the architecture of each particular
+decentralized ledger/consensus platform, are observed as well.
+
+3.6 These requirements apply to the modified work as a whole. If identifiable
+sections of that work are not derived from the Covered Work, and can be
+reasonably considered independent and separate works in themselves, then this
+License, and its terms, do not apply to those sections when you convey them as
+separate works. But when you convey the same sections as part of a whole which
+is a work based on the Covered Work, the conveyance of the whole must be on the
+terms of this License, whose permissions for other licensees extend to the
+entire whole, and thus to each and every part regardless of who wrote it. Mere
+aggregation of another work not based on the Covered Work with the Covered Work
+(or with a work based on the Covered Work) on a volume of a storage or
+distribution medium does not bring the other work under the scope of this
+License.
+
+
+Article 4. You may convey a Covered Work in Object Code form under the terms of
+Articles 2 and 3 of the General Conditions, provided that you also convey the
+machine-readable Corresponding Source under the terms of this License, in one of
+these ways:
+
+4.1 Convey the Object Code in, or embodied in, a physical product (including a
+physical distribution medium), accompanied by the Corresponding Source fixed on
+a durable physical medium customarily used for software interchange.
+
+4.2 Convey the Object Code in, or embodied in, a physical product (including a
+physical distribution medium), accompanied by a written offer, valid for at
+least three years and valid for as long as you offer spare parts or customer
+support for that product model, to give anyone who possesses the Object Code
+either (1) a copy of the Corresponding Source for all the software in the
+product that is covered by this License, on a durable physical medium
+customarily used for software interchange, for a price no more than your
+reasonable cost of physically performing this conveying of source, or (2) access
+to copy the Corresponding Source from a network server at no charge.
+
+4.3 Convey individual copies of the Object Code with a copy of the written offer
+to provide the Corresponding Source. This alternative is allowed only
+occasionally and non-commercially, and only if you received the Object Code with
+such an offer, in accord with Article 4.2 above.
+
+4.4 Convey the Object Code by offering access from a designated place (gratis or
+for a charge), and offer equivalent access to the Corresponding Source in the
+same way through the same place at no further charge. You need not require
+recipients to copy the Corresponding Source along with the Object Code. If the
+place to copy the Object Code is a network server, the Corresponding Source may
+be on a different server (operated by you or a third party) that supports
+equivalent copying facilities, provided you maintain clear directions next to
+the Object Code saying where to find the Corresponding Source. Regardless of
+what server hosts the Corresponding Source, you remain obligated to ensure that
+it is available for as long as needed to satisfy these requirements.
+
+4.5 Convey the Object Code using peer-to-peer transmission, provided you inform
+other peers where the Object Code and Corresponding Source of the work are being
+offered to the general public at no charge under Article 4.4 above.
+
+4.6 A separable portion of the Object Code, whose Source Code is excluded from
+the Corresponding Source as a System Library, need not be included in conveying
+the Object Code work.
+
+
+Article 5. You may not use, copy, modify, or propagate the Covered Work except
+as expressly provided under this License. Any attempt otherwise to use, copy,
+modify or  propagate the Covered Work is void, and will automatically terminate
+your rights under this License. However, parties who have received copies, or
+rights, from you under this License will not have their licenses terminated so
+long as such parties remain in full compliance.
+
+
+Article 6. You are not required to accept this License, since you have not
+signed it. However, nothing else grants you permission to copy, use, modify or
+propagate Covered Works. These actions are prohibited if you do not accept this
+License. Therefore, by modifying or propagating the Covered Work, you indicate
+your acceptance of this License to do so, and all its terms and conditions for,
+as specified in the General Conditions and Special Conditions, copying, using,
+propagating or modifying the Covered Work.
+
+
+Article 7. Each time you convey the Covered Work, the recipient automatically
+receives a license from the original Licensor to use, copy, propagate or modify
+the Covered Work subject to terms and conditions at least equal and in
+accordance with this License. In this regard, the license granted on behalf of
+the original Licensor by the propagator of the Covered Work may amend this
+License only to the following extent:
+
+7.1 You can add additional airdrop requirements towards the holders of your
+unique DLT Instance as long as those do not in any way reduce or interfere with
+the airdrop owed to the original DLT Instance account holders.
+
+7.2 If the distribution and/or use of the Covered Work is restricted in certain
+countries either by patents, by copyrighted interfaces or by law, the original
+copyright holder who places the Covered Work under this License may add an
+explicit geographical distribution limitation excluding those countries, so that
+distribution is permitted only in or among countries not thus excluded. In such
+case, this License incorporates the limitation as if written in the body of this
+License.
+
+
+Article 8. If, as a consequence of a court judgment or allegation of patent
+infringement or for any other reason (not limited to patent issues), conditions
+are imposed on you (whether by court order, agreement or otherwise) that
+contradict the conditions of this License, they do not excuse you from the
+conditions of this License. If you cannot distribute so as to satisfy
+simultaneously your obligations under this License and any other pertinent
+obligations, then as a consequence you may not propagate the Covered Work at
+all. For example, if a patent license would not permit royalty-free
+redistribution of the Covered Work by all those who receive copies directly or
+indirectly through you, then the only way you could satisfy both it and this
+License would be to refrain entirely from distribution of the Covered Work.
+
+
+Article 9. Jelurida IP B.V. may publish revised and/or new versions of the
+Jelurida Public License from time to time. Such new versions will be similar in
+spirit to the present version, but may differ in detail to address new problems
+or concerns. To avoid ambiguity, everyone who wishes to use the text of the
+Jelurida Public License must always specify under which version of the JPL
+their Covered Work is released.
+
+
+Article 10. Every Copyright Holder is permitted to use the text of the Jelurida
+Public License for their own Covered Work provided that they: (i) keep the name
+Jelurida Public License (you can append the name of the specific DLT Instance,
+e.g. "Jelurida Public License version 1.0 for the Sbr Public Blockchain"),
+(ii) remove the Preamble and (iii) do not change the General Conditions. Every
+Copyright Holder is permitted to adapt the Special Conditions to their specific
+case under (i), (ii) and (iii) above to the extent that they do not contradict
+the General Conditions nor the spirit of the Jelurida Public License.
+
+
+Article 11. If the Special Conditions contradict the General Conditions or any
+part of them, the provisions of the General Conditions shall take precedence.
+
+
+Article 12. If you cannot satisfy Article 3.4 and 3.4.1 of the General
+Conditions or you are not willing to do so, or if you require a customized DLT
+Instance for internal use (i.e. a private blockchain) based on the DLT Software
+you must obtain permission or purchase a commercial license from the original
+Copyright Holder however he is not in any way obliged to grant permission or
+sell such a license.
+
+
+Article 13. No warranty
+
+THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE COVERED WORK "AS IS"
+WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE
+COVERED WORK IS WITH YOU. SHOULD THE COVERED WORK PROVE DEFECTIVE, YOU ASSUME
+THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+
+Article 14.
+
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY
+COPYRIGHT HOLDER OR ANY OTHER PARTY  WHO MAY MODIFY AND/OR REDISTRIBUTE THE
+COVERED WORK AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
+GENERAL, SPECIAL INCIDENTAL  OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR
+INABILITY TO USE THE COVERED WORK (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR
+DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A
+FAILURE OF THE COVERED WORK TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH
+HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. YOU
+INDEMNIFY THE COPYRIGHT HOLDER OR CONVEYOR OF THE COVERED WORK OF ANY LIABILITY
+VIS-À-VIS ANY THIRD PARTY IN CONNECTION WITH THE COVERED WORK AS USED, COPIED,
+PROPAGATED OR MODIFIED BY YOU.
+
+
+Article 15.
+
+If the disclaimer of warranty and limitation of liability provided above cannot
+be given local legal effect according to their terms, reviewing courts shall
+apply local law that most closely approximates an absolute waiver of all civil
+liability in connection with the Covered Work, unless a warranty or assumption
+of liability accompanies a copy of the Covered Work in return for a fee.
+
+
+II. Special Conditions
+
+Article 0. The Copyright Holder of the Sbr Reference Software (NRS) is Jelurida
+IP B.V.
+
+
+Article 1. The airdrop requirement of Article 3.4.1 of the General Conditions,
+as related to the Sbr Reference Software (NRS) is the following:
+
+1.1 The SBR holders from the original Sbr Public Blockchain Platform as
+maintained by Jelurida Swiss SA must be allocated at least 10% (ten percent) of
+the forging tokens in the new DLT Instance, proportional to their SBR holdings,
+
+OR
+
+1.2 The forging token holders from a DLT Instance which is based on the NRS that
+has already satisfied the JPL airdrop requirement, are allocated 100% (one
+hundred percent) of the forging tokens in that new DLT Instance, proportional to
+their forging token holdings.
+
+The first case covers clones and forks of the Sbr platform, and ensures that SBR
+owners will receive an airdrop from any such clone or fork launched in the
+future, or any existing Sbr clone that decides to upgrade to this NRS version or
+copy or backport code from it.
+
+The second case is to cover forks of Sbr clones which have already satisfied the
+JPL airdrop, as by definition at the time of the hard fork all accounts start
+with the same balances on either fork, and it would be difficult to make a hard
+fork satisfy the first condition. The Sbr holders who received the airdrop
+would still have the same balances on either fork.
+
+
+Article 2. In both cases (Articles 1.1 or 1.2 of the Special Conditions), token
+holdings must be calculated based on a snapshot taken not earlier than 3 months
+before the launch of the new DLT Instance. For a new DLT Instance, the snapshot
+should also be taken not later than 24 h before the launch, to avoid the
+uncertainty due to the 720 blocks rolling checkpoint.
+
+
+Article 3.
+
+3.1 There should be under no circumstances any restrictions or any type of
+discrimination against accounts receiving tokens as an airdrop.
+
+3.2 If token distribution must be restricted by some criteria that not all
+existing SBR holders can potentially satisfy, a specific exemption from the full
+JPL airdrop requirements must be obtained in advance. The Copyright Holder
+reserves the right to not grant such exemption, or to require a commercial
+license in such situations, to be decided on a case by case basis.
+
+3.3 As internal (private) use of Sbr software for evaluating and testing
+purposes cannot satisfy the JPL airdrop requirement, any such use will also
+require an evaluation license agreement with the Copyright Holder if it lasts
+longer than 3 months.
+
+3.4 Nothing in this license shall be understood as giving SBR token holders the
+right to hold the Licensor, its affiliate parties, or sublicensors, liable in
+case the SBR holders do not obtain any airdrop, or liable for not taking action
+to enforce the airdrop requirement, or for not observing, verifying or
+monitoring the compliance with any airdrop. The Licensor also retains the right
+to change the percentage of the airdrop requirement in Article 1.1 or to
+completely eliminate this airdrop requirement at any time.
+
+
+Article 4. DLT Instances that by design do not use a fixed number of tokens
+issued all at once, or that have substituted the proof-of-stake algorithm with a
+different one and as a result do not use forging tokens, have to contact the
+Copyright Holder for a custom license agreement. However the Copyright Holder is
+in no way obliged to provide such a custom license.
+
+
+Article 5. Interpretation
+You agree that you may not, for the purpose of interpretation of this License,
+refer to, or construe this License on the basis of, or use as counterevidence,
+any prior agreements, arrangements, understandings and statements, or other
+bilateral or public licenses, and to this extent agree (i) that this License
+qualifies as an agreed rule of evidence within the meaning of article 153 Dutch
+Code of Civil Proceedings and (ii) that this clause serves as a determination
+agreement within the meaning of article 7:900 Dutch Civil Code, and that this
+License shall be interpreted or construed by assuming the most obvious
+grammatical meaning of the wording of this License.
+
+
+Article 6. Governing law
+This License, the documents related to it and any agreement that incorporates
+any of these are governed by and shall be construed in accordance with the laws
+of the Netherlands. Any and all disputes arising out of or in connection with
+this License, the documents related to it and any agreement that incorporates
+any of these shall be exclusively referred to the competent court in Amsterdam,
+the Netherlands.
+
+
+Copyright © 2013-2016 The Nxt Core Developers.
+Copyright © 2016-2018 Jelurida IP B.V.
+Copyright © 2018 Sandoche ADITTANE e Farbod SARAF, Coingenerator.sh
+Copyright © 2020 Fundação Sucata
+
+Este programa é distribuído sob os termos da Licença Pública de Jelurida
+versão 1.1 para a plataforma Sbr Public Blockchain.
+
+Este programa é distribuído na esperança de que seja útil,
+mas SEM QUALQUER GARANTIA; sem mesmo a garantia implícita de
+COMERCIABILIDADE ou ADEQUAÇÃO A UM DETERMINADO FIM.
+
+Entre em contato com Jelurida B.V. em info@jelurida.com para licenciamento comercial
+opções se a Licença Pública Jelurida não se adequar ao seu blockchain privado
+necessidades.
+
+O componente da IU do cliente deste software, localizado em / html / www, é
+distribuído sob a licença MIT, uma cópia da qual está disponível sob
+/html/www/LICENSE.txt.
+
+Este software também usa código de terceiros e bibliotecas, distribuídas sob
+licenças descritas em 3RD-PARTY-LICENSES.txt.
+
+Abaixo está o texto completo da Jelurida Public License versão 1.1 para
+a plataforma Sbr Public Blockchain:
+
+
+LICENÇA PÚBLICA DE JELURIDA
+
+Preâmbulo:
+
+Sendo uma empresa envolvida predominantemente na criação de tecnologia de blockchain,
+A Jelurida IP B.V. preparou a seguinte licença "co-deixada" cujo objetivo é
+implementar novos requisitos consistentes com a natureza específica do blockchain
+Programas. Reconhecemos as vantagens fundamentais que o razão descentralizado
+a tecnologia tem a oferecer e realmente acreditamos em seu potencial para mudar o
+mundo para melhor. Portanto, desejamos continuar o já estabelecido
+tradição de publicar software blockchain como código aberto e, desta forma,
+dar a nossa contribuição para o desenvolvimento da tecnologia blockchain
+no mundo todo. Ao mesmo tempo, desejamos proteger nossos direitos de PI e abordar o
+fato de que nosso software foi copiado muitas vezes durante sua existência e como um
+resultado, muitos "clones" foram criados que diluem o valor dos tokens
+sem melhorias tecnológicas significativas por trás deles.
+
+Os termos e condições exatos para uso, cópia e modificação são os seguintes:
+
+
+TERMOS E CONDIÇÕES
+
+
+I. Condições Gerais
+
+
+Introdução
+
+Os modelos de licenciamento copyleft existentes foram projetados para proteger o valor do
+código que é criado em projetos de código aberto. Eles garantem que qualquer um que construa
+além deste código também libera seu código sob a mesma licença copyleft,
+compartilhando assim com a comunidade e os desenvolvedores do projeto original
+o valor agregado do trabalho derivado.
+
+As licenças Copyleft, no entanto, foram criadas muito antes da criptomoeda e
+tecnologias de blockchain apareceram e não poderiam ter previsto o fato de que
+hoje, o valor de um projeto de razão distribuída de código aberto está contido, não
+apenas no código do programa sendo escrito, mas no blockchain público exclusivo
+instância ou token de criptomoeda, mantido por este projeto, com seu
+desenvolvedores, comunidade e proprietários que compartilham o interesse comum de preservar e
+aumentar o valor deste token blockchain.
+
+Os tokens de criptomoeda hoje têm valor próprio, as pessoas podem comprar, vender e
+investir neles e na permissão ilimitada de clonar o blockchain existente
+plataformas e a criação de novas moedas resultam inevitavelmente na diminuição do valor de
+os tokens originais.
+
+Os tokens de criptografia também são uma parte inseparável de cada razão distribuída
+software, sem o qual tal software não pode realmente ser usado. Garantindo que um
+o projeto clone compartilha de volta o código-fonte modificado não é mais suficiente para
+permitir aos usuários do projeto original o acesso a essa obra derivada, a menos que eles
+também são alocados alguns dos tokens recém-criados no blockchain do clone
+instância. Assim, tal alocação é importante a fim de preservar não apenas o
+valor dos tokens originais, mas também para preservar a liberdade do usuário de usar qualquer
+trabalhos derivados do software original.
+
+Com o exposto, os termos e condições de uso, cópia e
+modificação de programas de software de razão distribuídos são descritos abaixo, chamados
+a Licença Pública de Jelurida (JPL). O JPL é inspirado no GNU General Public
+Licença versões 2 e 3, com adaptações voltadas especificamente para aplicação de
+a licença para programas de software de contabilidade distribuídos; como tal, o GNU General
+Licença pública e quaisquer outros termos e condições de licença além deste JPL
+são explicitamente excluídos.
+
+
+Versão JPL: 1.1
+
+
+Artigo 0. Definições:
+
+“Com base no [Programa / Trabalho Coberto / ...]” significa derivado do Coberto original
+Obra (ou parte dela) pelo (s) ato (s) de copiá-la, modificá-la, incluindo-a
+(no todo ou em parte) ou vinculando-se à Obra Coberta original (ou parte
+do mesmo).
+
+“Transmitir”: Transmitir uma obra significa qualquer tipo de propagação que possibilite outro
+partes para fazer ou receber cópias. Mera interação com um usuário por meio de um
+rede de computadores, sem transferência de uma cópia, não está transmitindo.
+
+Detentor dos direitos autorais, licenciador: o proprietário dos direitos de IP sobre o software como
+determinado pela legislação nacional aplicável e tratamento internacional y disposições
+regulamentar este assunto.
+
+Fonte correspondente: a fonte correspondente para uma obra na forma de código de objeto
+significa todo o código-fonte necessário para gerar, instalar e (para um executável
+trabalho) executar o Código do Objeto e modificar o trabalho, incluindo scripts para controlar
+essas atividades. No entanto, não inclui as Bibliotecas do Sistema da obra, ou
+ferramentas de uso geral ou programas gratuitos geralmente disponíveis que são usados
+inalterado na execução dessas atividades, mas que não fazem parte do trabalho.
+Por exemplo, Fonte Correspondente inclui arquivos de definição de interface associados
+com arquivos de origem para o trabalho, e o código-fonte para bibliotecas compartilhadas e
+subprogramas dinamicamente vinculados para os quais o trabalho é projetado especificamente
+exigem, como por comunicação íntima de dados ou fluxo de controle entre aqueles
+subprogramas e outras partes do trabalho. A fonte correspondente não precisa
+incluem qualquer coisa que os usuários possam regenerar automaticamente de outras partes do
+Fonte correspondente. A fonte correspondente para uma obra na forma de código fonte é
+esse mesmo trabalho.
+
+Trabalho Coberto: Um Software DLT ou outro Programa baseado em um DLT ou de outra forma, ou
+com base em outra Obra Coberta, seu Código de Objeto e Código Fonte, e qualquer outro
+trabalho coberto por esta Licença de acordo com seus termos.
+
+Instância DLT: instância única de razão distribuída que consiste em uma rede de
+um ou mais participantes (nós) executando um software DLT particular e que
+os nós estão em um estado de consenso entre si dentro do permitido
+tolerâncias do algoritmo de consenso aplicável. Um exemplo de tal DLT
+instância é o blockchain público Sbr.
+
+Software DLT: Qualquer tecnologia de computador contábil distribuída, incluindo, mas não
+limitado à tecnologia blockchain, independentemente da forma como o consenso é
+estabelecido.
+
+Condições Gerais: Capítulo I. Condições Gerais desta Licença.
+
+Licença: Esta Licença Pública Jelurida (JPL) consistindo em ambos
+Condições e condições especiais.
+
+Licenciado, Você: Todos (pessoa física ou jurídica) que desejam usar, copiar,
+distribuir, modificar ou construir sobre o Programa.
+
+“Modificar”: Modificar um trabalho significa copiar ou adaptar todo ou parte do
+trabalho de uma forma que requer permissão de direitos autorais, diferente da realização de um
+cópia exata. O trabalho resultante é chamado de "versão modificada" do anterior
+trabalho ou um “trabalho baseado em” o trabalho anterior. A modificação também inclui
+tradução para outra linguagem de programação ou linguagem humana.
+
+Código do objeto: qualquer forma que não seja o Código-fonte de uma obra.
+
+Programa: Qualquer trabalho com direitos autorais licenciado sob esta Licença.
+
+“Propagar”: propagar uma obra significa fazer qualquer coisa com ela que, sem
+permissão, tornaria você direta ou secundariamente responsável por violação sob
+lei de direitos autorais aplicável, exceto executá-la em um computador ou modificar um
+cópia privada. A propagação inclui cópia, distribuição (com ou sem
+modificação), disponibilizando ao público, e em alguns países outros
+atividades também.
+
+Código-fonte: O código-fonte de uma obra significa a forma preferida da obra para
+fazer modificações nele.
+
+Condições especiais: Capítulo II. Condições especiais desta licença que
+contém disposições adicionais exigidas e adaptadas pelo Licenciante de acordo com
+o Trabalho Coberto específico ao qual são aplicáveis.
+
+Interface padrão: uma interface que seja um padrão oficial definido por
+um organismo de padrões reconhecido, ou, no caso de interfaces especificadas para um
+linguagem de programação particular, que é amplamente usada entre os desenvolvedores
+trabalhando nesse idioma.
+
+Bibliotecas do sistema: Bibliotecas de uma obra executável, diferente da obra como um
+inteiros, que (a) estão incluídos na forma normal de embalagem de um componente principal,
+mas que não fazem parte desse componente principal, e (b) servem apenas para permitir o uso
+do trabalho com esse componente principal, ou para implementar uma interface padrão para
+em que uma implementação está disponível ao público na forma de Código-fonte. Uma importante
+Componente, neste contexto, significa um componente essencial principal (kernel, janela
+sistema, e assim por diante) do sistema operacional específico (se houver) no qual o
+execução de trabalho executável, ou um compilador usado para produzir o trabalho, ou um código de objeto
+intérprete usado para executá-lo.
+
+
+Artigo 1. Escopo da Licença:
+
+1.1 Esta Licença se aplica a qualquer Trabalho Coberto ou outro trabalho que contenha um
+aviso colocado pelo detentor dos direitos autorais dizendo que pode ser usado, propagado,
+transmitido ou modificado apenas sob os termos desta Licença. Também se aplica a
+qualquer trabalho que não seja um DLT per se, mas ainda seja um Trabalho Coberto porque é
+com base no Software DLT coberto ou contém uma parte dele. Isso é para garantir
+que se tal trabalho for incluído em outro Software DLT, o Software DLT deve
+satisfazer o requisito de lançamento aéreo declarado abaixo e outros termos desta Licença.
+
+1.2. Todos os direitos concedidos sob esta Licença são concedidos para o termo dos direitos autorais
+na Obra Coberta, e são irrevogáveis ​​desde que as condições desta Licença
+são atendidas.
+
+1.3 O ato de executar um Programa é não restrito, desde que não
+violar o Artigo 3.4 das Condições Gerais, e o resultado de um Programa é
+coberto apenas se o seu conteúdo constituir um trabalho baseado no Programa (independente
+de ter sido feito executando o Programa). Se isso é verdade depende de
+o que o programa faz.
+
+1.4 O transporte é permitido somente nas condições aqui estabelecidas.
+Sublicenciamento não é permitido; O Artigo 7 das Condições Gerais torna
+desnecessário.
+
+1.5 Nenhum Trabalho Coberto deve ser considerado parte de uma medida tecnológica eficaz
+sob qualquer lei aplicável cumprindo as obrigações nos termos do artigo 11 da WIPO
+tratado de direitos autorais adotado em 20 de dezembro de 1996, ou leis semelhantes que proíbam ou
+restringir a evasão de tais medidas. Quando você transmite uma Obra Coberta, você
+renunciar a qualquer poder legal para proibir a evasão de medidas tecnológicas para o
+na medida em que tal evasão é efetuado pelo exercício de direitos sob esta Licença
+com relação à Obra Coberta, e você nega qualquer intenção de limitar
+operação ou modificação da obra como meio de fiscalização, contra o
+usuários do trabalho, seus direitos legais ou de terceiros para proibir a violação de
+medidas tecnológicas.
+
+
+Artigo 2.
+
+2.1 Você pode copiar e distribuir cópias textuais da Fonte da Obra Coberta
+Código conforme você o recebe, em qualquer meio, desde que você conspicuamente e
+publicar apropriadamente em cada cópia um aviso de copyright apropriado e
+Isenção de garantia; mantenha intactos todos os avisos que se referem a esta Licença
+e à ausência de qualquer garantia; e dar a quaisquer outros destinatários do Coberto
+Trabalhe uma cópia desta Licença junto com a Obra Coberta.
+
+2.2 Você deve manter intactas todas as notificações de autoria e direitos autorais e ao transmitir
+ou oferecendo-se para transmitir cópias (literalmente ou modificadas), você também deve evitar qualquer
+deturpação da origem da Obra Coberta. Você deve se certificar de que qualquer
+versões modificadas de tal Obra Coberta são marcadas de maneiras razoáveis ​​como
+diferentes da versão original e não implicam qualquer endosso ou
+suporte do detentor dos direitos autorais em relação a este trabalho modificado.
+
+2.3 Você pode cobrar uma taxa pelo ato físico de transferência de uma cópia (para o
+para evitar dúvidas, tal ato físico de transferência pode incluir fazer a cópia
+disponível em seu site ou de outra forma), e você pode, a seu critério e
+responsabilidade oferecer suporte ou proteção de garantia em troca de uma taxa. Vocês
+não estão autorizados a cobrar qualquer taxa para conceder o direito de uso posterior,
+propagar, transmitir ou modificar a cópia então obtida pelo adquirente, como tal
+seria contra a intenção desta Licença.
+
+
+Artigo 3. Você pode modificar sua cópia ou cópias da Obra Coberta ou qualquer parte
+dele, formando assim uma obra com base na Obra Abrangida, e copiar e distribuir
+tais modificações ou trabalhar de acordo com os termos do Artigo 2 acima, desde que você
+também atendem a todas estas condições:
+
+3.1 Você deve fazer com que os arquivos modificados contenham avisos em destaque afirmando que
+você alterou os arquivos e a data de qualquer alteração.
+
+3.2 Você deve fazer com que qualquer trabalho que distribua ou publique, no todo ou em
+parte contém ou é derivada da Obra Coberta ou qualquer parte dela, para ser
+licenciado como um todo sem nenhum custo para todos os terceiros nos termos deste
+Licença.
+
+3.3 Se o programa modificado normalmente lê comandos interativamente quando executado, você
+deve causar isso, quando começou a funcionar para tal uso interativo na maioria
+maneira normal, para imprimir ou exibir um anúncio incluindo um apropriado
+aviso de direitos autorais e um aviso de que não há garantia (ou então, dizendo que
+você fornece uma garantia) e que os usuários podem redistribuir o programa sob o
+condições desta Licença, e informando ao usuário como visualizar uma cópia deste
+Licença. (Exceção: se a Obra Coberta em si for interativa, mas não
+normalmente imprime tal anúncio, seu trabalho com base na Obra Coberta não é
+necessário para imprimir um anúncio.) Se o programa tiver interface gráfica do usuário
+tais avisos devem ser colocados em uma caixa de diálogo sobre ou similar.
+
+3.4 Se o Trabalho Coberto for um Software DLT, após suas modificações ele deve
+continue a trabalhar com a instância DLT original sem violar o consenso
+algoritmo ou resultando em uma bifurcação permanente. Para os fins desta cláusula
+modificação também inclui alterar a configuração ou ambiente de rede em
+qual a Obra Coberta é executada que resulta em desconexão permanente, bifurcação ou
+isolamento da instância DLT original. Se suas modificações resultarem em um
+instância DLT diferente, você deve atender ao seguinte requisito de lançamento aéreo:
+
+3.4.1 Os detentores de token da instância original do livro-razão distribuído devem ser
+alocou uma parte (um "lançamento aéreo") dos tokens nessa nova instância DLT
+proporcionais aos seus saldos simbólicos. Isso também se aplica a qualquer pessoa que
+pretende fazer uma cópia de sua cópia, ou seja, qualquer pessoa precisa alocar o
+mesmo lançamento aéreo dos tokens recém-criados para os titulares da conta do
+instância DLT original (não para sua cópia). Se a obra coberta não for um DLT
+Software per se, este requisito ainda se aplica a qualquer outro trabalho baseado em ou
+incluindo este trabalho ou partes dele que é um Software DLT ou em qualquer outro
+forma distribui tokens para seus usuários. A porcentagem específica do lançamento aéreo
+e os tokens aos quais se aplica, o que também pode depender de como o novo DLT
+A instância refere-se à original, são definidas nas Condições Especiais.
+
+3.5 Todas as outras disposições, designadas nas Condições Especiais e consistentes
+com os requisitos específicos decorrentes da arquitetura de cada particular
+plataforma de consenso / razão descentralizada também são observadas.
+
+3.6 Estes requisitos se aplicam à obra modificada como um todo. Se identificável
+seções dessa obra não são derivadas da Obra Coberta e podem ser
+razoavelmente considerados trabalhos independentes e separados em si mesmos, então este
+A licença e seus termos não se aplicam a essas seções quando você as transmite como
+trabalhos separados. Mas quando você transmite as mesmas seções como parte de um todo que
+é uma obra baseada na Obra Abrangida, a transmissão do todo deve estar no
+termos desta Licença, cujas permissões para outros licenciados se estendem ao
+todo o todo e, portanto, para cada uma das partes, independentemente de quem o escreveu. Mero
+agregação de outra obra não baseada na obra coberta com a obra coberta
+(ou com uma obra baseada na Obra Coberta) em um volume de armazenamento ou
+meio de distribuição não traz o outro trabalho sob o escopo deste
+Licença.
+
+
+Artigo 4. Você pode transmitir um formulário de Trabalho Coberto em Código de Objeto nos termos do
+Artigos 2 e 3 das Condições Gerais, desde que também transmita o
+Fonte Correspondente legível por máquina nos termos desta Licença, em um dos
+estas maneiras:
+
+4.1 Transmitir o Código Objeto em, ou incorporado em, um produto físico (incluindo um
+meio de distribuição física), acompanhado pela Fonte Correspondente fixada em
+um meio físico durável normalmente usado para intercâmbio de software.
+
+4.2 Transmitir o Código Objeto em, ou incorporado em, um produto físico (incluindo um
+meio de distribuição física), acompanhada de uma oferta escrita, válida para em
+pelo menos três anos e válido enquanto você oferecer peças de reposição ou cliente
+suporte para esse modelo de produto, para dar a qualquer pessoa que possua o Código de Objeto
+(1) uma cópia da fonte correspondente para todo o software no
+produto que é coberto por esta Licença, em um meio físico durável
+normalmente usado para intercâmbio de software, por um preço não superior a seu
+custo razoável de realizar fisicamente este transporte da fonte, ou (2) acesso
+para copiar a fonte correspondente de um servidor de rede gratuitamente.
+
+4.3 Transmitir cópias individuais do Código Objeto com uma cópia da oferta escrita
+para fornecer a fonte correspondente. Esta alternativa é permitida apenas
+ocasionalmente e não comercialmente, e somente se você recebeu o Código Objeto com
+tal oferta, de acordo com o Artigo 4.2 acima.
+
+4.4 Transmitir o Código Objeto, oferecendo acesso a partir de um local designado (grátis ou
+por uma taxa), e oferecem acesso equivalente à Fonte Correspondente no
+da mesma forma através do mesmo local sem mais custos. Você não precisa exigir
+destinatários para copiar a fonte correspondente junto com o código do objeto. Se o
+lugar para copiar o código do objeto é um servidor de rede, a fonte correspondente pode
+estar em um servidor diferente (operado por você ou um terceiro) que oferece suporte
+instalações de cópia equivalentes, desde que você mantenha instruções claras ao lado de
+o código do objeto informando onde encontrar a fonte correspondente. Independentemente de
+qual servidor hospeda a fonte correspondente, você continua obrigado a garantir que
+ele está disponível enquanto for necessário para atender a esses requisitos.
+
+4.5 Transmitir o Código Objeto usando transmissão ponto a ponto, desde que você informe
+outros pares onde o código do objeto e a fonte correspondente do trabalho estão sendo
+oferecidos ao público em geral sem custos nos termos do Artigo 4.4 acima.
+
+4.6 Uma parte separável do Código Objeto, cujo Código Fonte é excluído do
+a fonte correspondente como uma biblioteca do sistema, não precisa ser incluída no transporte
+o código do objeto funciona.
+
+
+Artigo 5. Você não pode usar, copiar, modificar ou propagar a Obra Coberta, exceto
+conforme expressamente fornecido nesta Licença. Qualquer tentativa de usar, copiar,
+modificar ou propagar a Obra Coberta é nula e será encerrada automaticamente
+seus direitos sob esta Licença. No entanto, as partes que receberam cópias, ou
+direitos, de você sob esta Licença não terão suas licenças rescindidas,
+desde que essas partes permaneçam em total conformidade.
+
+
+Artigo 6. Você não é obrigado a aceitar esta Licença, uma vez que você não
+assinou. No entanto, nada mais lhe concede permissão para copiar, usar, modificar ou
+propagar Obras Cobertas. Essas ações são proibidas se você não aceitar este
+Licença. Portanto, ao modificar ou propagar a Obra Coberta, você indica
+sua aceitação desta Licença para fazê-lo, e todos os seus termos e condições para,
+conforme especificado nas Condições Gerais e Condições Especiais, cópia,usando,
+propagando ou modificando a Obra Coberta.
+
+
+Artigo 7. Cada vez que você transmite a Obra Coberta, o destinatário automaticamente
+recebe uma licença do Licenciante original para usar, copiar, propagar ou modificar
+a Obra Coberta sujeita aos termos e condições pelo menos iguais e em
+de acordo com esta Licença. A este respeito, a licença concedida em nome de
+o Licenciante original pelo propagador da Obra Coberta pode alterar este
+Licença apenas na seguinte extensão:
+
+7.1 Você pode adicionar requisitos de lançamento aéreo adicionais para os titulares de seu
+instância DLT única, desde que não reduza ou interfira de forma alguma
+o lançamento aéreo devido aos titulares de contas da instância DLT originais.
+
+7.2 Se a distribuição e / ou uso da Obra Coberta for restrita em certos
+países, seja por patentes, por interfaces protegidas por direitos autorais ou por lei, o original
+o detentor dos direitos autorais que colocar a Obra Coberta sob esta Licença pode adicionar um
+limitação de distribuição geográfica explícita, excluindo esses países, de modo que
+a distribuição é permitida apenas em ou entre países não excluídos. Em tal
+caso, esta Licença incorpora a limitação como se escrita no corpo deste
+Licença.
+
+
+Artigo 8. Se, como consequência de uma decisão judicial ou alegação de patente
+violação ou por qualquer outro motivo (não limitado a questões de patentes), condições
+são impostos a você (seja por ordem judicial, acordo ou de outra forma) que
+contradizem as condições desta Licença, eles não o isentam do
+condições desta Licença. Se você não pode distribuir de forma a satisfazer
+simultaneamente suas obrigações sob esta Licença e qualquer outra
+obrigações, então, como consequência, você não pode propagar o Trabalho Coberto no
+tudo. Por exemplo, se uma licença de patente não permitiria
+redistribuição da Obra Coberta por todos aqueles que recebem cópias diretamente ou
+indiretamente através de você, então a única maneira de satisfazê-lo e a este
+Licença seria abster-se inteiramente de distribuição da Obra Coberta.
+
+
+Artigo 9. Jelurida IP B.V. pode publicar versões revisadas e / ou novas do
+Jelurida Public License de vez em quando. Essas novas versões serão semelhantes em
+espírito para a versão atual, mas pode diferir em detalhes para resolver novos problemas
+ou preocupações. Para evitar ambiguidades, todos que desejam usar o texto do
+A Licença Pública Jelurida deve sempre especificar em qual versão do JPL
+seu Trabalho Coberto é lançado.
+
+
+Artigo 10. Todo detentor de direitos autorais está autorizado a usar o texto da Jelurida
+Licença pública para seu próprio trabalho coberto, desde que: (i) mantenham o nome
+Jelurida Public License (você pode anexar o nome da instância DLT específica,
+por exemplo. "Jelurida Public License version 1.0 for the Sbr Public Blockchain"),
+(ii) remover o Preâmbulo e (iii) não alterar as Condições Gerais. Cada
+O detentor dos direitos autorais está autorizado a adaptar as condições especiais às suas
+caso sob (i), (ii) e (iii) acima, na medida em que eles não contradizem
+as Condições Gerais nem o espírito da Licença Pública de Jelurida.
+
+
+Artigo 11. Se as Condições Especiais contradizerem as Condições Gerais ou qualquer
+parte deles, as disposições das Condições Gerais prevalecem.
+
+
+Artigo 12. Se você não puder cumprir o Artigo 3.4 e 3.4.1 do Geral
+Condições ou você não deseja fazê-lo, ou se precisar de um DLT personalizado
+Instância para uso interno (ou seja, um blockchain privado) com base no software DLT
+você deve obter permissão ou comprar uma licença comercial do original
+Detentor dos direitos autorais, no entanto, ele não é de forma alguma obrigado a conceder permissão ou
+vender essa licença.
+
+
+Artigo 13. Sem garantia
+
+OS TITULARES DOS DIREITOS AUTORAIS E / OU OUTRAS PARTES FORNECEM O TRABALHO COBERTO "COMO ESTÁ"
+SEM GARANTIA DE QUALQUER TIPO, SEJA EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO
+LIMITADO ÀS GARANTIAS IMPLÍCITAS DE COMERCIABILIDADE E ADEQUAÇÃO A UM
+PROPÓSITO PARTICULAR. TODO O RISCO QUANTO À QUALIDADE E DESEMPENHO DO
+O TRABALHO COBERTO É COM VOCÊ. CASO O TRABALHO COBERTO SE PROVASSE DEFEITUOSO, VOCÊ ASSUME
+O CUSTO DE TODOS OS SERVIÇOS, REPAROS OU CORREÇÕES NECESSÁRIOS.
+
+
+Artigo 14.
+
+EM NENHUM CASO, A MENOS QUE EXIGIDO PELA LEI APLICÁVEL OU ACORDADO POR ESCRITO, QUALQUER
+TITULAR DOS DIREITOS AUTORAIS OU QUALQUER OUTRA PARTE QUE POSSA MODIFICAR E / OU REDISTRIBUIR O
+TRABALHO COBERTO CONFORME PERMITIDO ACIMA, SERÁ RESPONSÁVEL POR DANOS, INCLUINDO QUALQUER
+DANOS GERAIS, ACIDENTAIS ESPECIAIS OU CONSEQUENCIAIS DECORRENTES DO USO OU
+INCAPACIDADE DE USAR O TRABALHO COBERTO (INCLUINDO, MAS NÃO SE LIMITANDO À PERDA DE DADOS OU
+DADOS SENDO PRESTADOS INEXATOS OU PERDAS SUSTENTADAS POR VOCÊ OU TERCEIROS OU UM
+FALHA DO TRABALHO COBERTO PARA OPERAR COM QUAISQUER OUTROS PROGRAMAS), MESMO SE TAL
+O TITULAR OU OUTRA PARTE FOI AVISADA DA POSSIBILIDADE DE TAIS DANOS. VOCÊS
+INDENIZE O TITULAR DOS DIREITOS AUTORAIS OU TRANSMISSOR DA OBRA COBERTA DE QUALQUER RESPONSABILIDADE
+VIS-À-VIS QUALQUER TERCEIRO EM CONEXÃO COM A OBRA COBERTA COMO USADA, COPIADA,
+PROPAGADO OU MODIFICADO POR VOCÊ.
+
+
+Artigo 15.
+
+Se a isenção de garantia e limitação de responsabilidade fornecerem d acima não pode
+ter efeito legal local de acordo com seus termos, os tribunais de revisão devem
+aplicar a lei local que mais se aproxima de uma dispensa absoluta de todas as
+responsabilidade em relação ao Trabalho Coberto, a menos que seja uma garantia ou suposição
+de responsabilidade acompanha uma cópia da Obra Coberta em troca de uma taxa.
+
+
+II. Condições especiais
+
+Artigo 0. O detentor dos direitos autorais do software de referência Sbr (NRS) é Jelurida
+IP B.V.
+
+
+Artigo 1. O requisito de lançamento aéreo do Artigo 3.4.1 das Condições Gerais,
+conforme relacionado ao Software de Referência Sbr (NRS) é o seguinte:
+
+1.1 Os detentores de SBR da plataforma original Sbr Public Blockchain como
+mantida pela Jelurida Swiss SA deve ser alocada a pelo menos 10% (dez por cento) de
+os tokens forjados na nova instância DLT, proporcionais às suas participações SBR,
+
+OU
+
+1.2 Os detentores de tokens de falsificação de uma instância DLT que se baseia no NRS que
+já satisfez o requisito de lançamento aéreo JPL, estão alocados 100% (um
+cem por cento) dos tokens de falsificação nessa nova instância DLT, proporcional a
+suas participações de tokens forjados.
+
+O primeiro caso cobre clones e garfos da plataforma Sbr e garante que o SBR
+os proprietários receberão um lançamento aéreo de qualquer clone ou fork lançado no
+futuro, ou qualquer clone Sbr existente que decida atualizar para esta versão do NRS ou
+copie ou faça backport do código dele.
+
+O segundo caso é cobrir forks de clones Sbr que já satisfizeram o
+JPL airdrop, como, por definição, no momento do hard fork todas as contas começam
+com os mesmos saldos em qualquer bifurcação, e seria difícil fazer um difícil
+garfo satisfaz a primeira condição. Os titulares de Sbr que receberam o lançamento aéreo
+ainda teria os mesmos saldos em cada bifurcação.
+
+
+Artigo 2. Em ambos os casos (Artigos 1.1 ou 1.2 das Condições Especiais), token
+as participações devem ser calculadas com base em um instantâneo tirado não antes de 3 meses
+antes do lançamento da nova instância DLT. Para uma nova instância DLT, o instantâneo
+também deve ser feito o mais tardar 24 horas antes do lançamento, para evitar o
+incerteza devido ao ponto de verificação de rolamento de 720 blocos.
+
+
+Artigo 3.
+
+3.1 Não deve haver em nenhuma circunstância quaisquer restrições ou qualquer tipo de
+discriminação contra contas que recebem tokens como um lançamento aéreo.
+
+3.2 Se a distribuição do token deve ser restrita por alguns critérios que nem todos
+os titulares de SBR existentes podem potencialmente satisfazer, uma isenção específica do total
+Os requisitos de lançamento aéreo do JPL devem ser obtidos com antecedência. O detentor dos direitos autorais
+reserva-se o direito de não conceder tal isenção, ou exigir um comercial
+licença em tais situações, a ser decidida caso a caso.
+
+3.3 Como uso interno (privado) do software Sbr para avaliação e teste
+finalidades não podem satisfazer o requisito de lançamento aéreo JPL, qualquer uso também irá
+exigir um contrato de licença de avaliação com o detentor dos direitos autorais se durar
+mais de 3 meses.
+
+3.4 Nada nesta licença deve ser entendido como dando aos detentores de token SBR o
+direito de responsabilizar o Licenciante, suas partes afiliadas ou sublicenciadores em
+caso os titulares de SBR não obtenham qualquer lançamento aéreo, ou responsáveis ​​por não tomarem medidas
+para fazer cumprir a exigência de lançamento aéreo, ou para não observar, verificar ou
+monitorar o cumprimento de qualquer lançamento aéreo. O Licenciante também detém o direito
+para alterar a porcentagem do requisito de lançamento aéreo no Artigo 1.1 ou para
+elimine completamente esse requisito de lançamento aéreo a qualquer momento.
+
+
+Artigo 4. Instâncias DLT que, por design, não usam um número fixo de tokens
+emitido de uma vez, ou que substituiu o algoritmo de prova de aposta por um
+diferente e, como resultado, não use tokens de falsificação, deve entrar em contato com o
+Detentor dos direitos autorais para um contrato de licença personalizado. No entanto, o detentor dos direitos autorais é
+de forma alguma obrigado a fornecer tal licença personalizada.
+
+
+Artigo 5. Interpretação
+Você concorda que não pode, para fins de interpretação desta Licença,
+referir-se a, ou interpretar esta Licença com base em, ou usar como contra-evidência,
+quaisquer acordos anteriores, arranjos, entendimentos e declarações, ou outros
+licenças bilaterais ou públicas e, nesta medida, concordar (i) que esta Licença
+qualifica-se como uma regra de evidência acordada na acepção do artigo 153 holandês
+Código de Processo Civil e (ii) que esta cláusula sirva como uma determinação
+acordo na acepção do artigo 7: 900 Código Civil holandês, e que este
+A licença deve ser interpretada ou interpretada assumindo o mais óbvio
+significado gramatical do texto desta Licença.
+
+
+Artigo 6. Lei Aplicável
+Esta Licença, os documentos relacionados a ela e qualquer contrato que incorpore
+qualquer um deles é regido e deve ser interpretado de acordo com as leis
+da Holanda. Todas e quaisquer disputas decorrentes de ou em conexão com
+esta Licença, os documentos relacionados a ela e qualquer acordo que incorpore
+qualquer um deles será encaminhado exclusivamente ao tribunal competente em Amsterdã,
+Os Países Baixos.

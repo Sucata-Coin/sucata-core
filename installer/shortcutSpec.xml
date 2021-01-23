@@ -1,0 +1,36 @@
+<shortcuts>
+	<skipIfNotSupported/>
+	<defaultCurrentUser/>
+	<programGroup defaultName="SucataCoin" location="startMenu"/>
+	<shortcut
+		name="SucataCoin Server"
+		target="$INSTALL_PATH\SucataCoin.exe"
+		commandLine=""
+		workingDirectory="$INSTALL_PATH"
+        description="Start SucataCoin server"
+		iconFile="$INSTALL_PATH\html\www\favicon.ico"
+        iconIndex="0"
+        initialState="normal"
+        programGroup="yes"
+		desktop="yes"
+        applications="no"
+        startMenu="no"
+		startup="no"
+		runAsAdministrator="true">
+	</shortcut>	
+	<shortcut
+		name="SucataCoin Wallet"
+		target="http://localhost:36876/index.html"
+		commandLine=""
+		workingDirectory="$INSTALL_PATH"
+        description="Launch SucataCoin wallet in browser"
+		iconFile="$INSTALL_PATH\html\www\favicon.ico"
+        iconIndex="0"
+        initialState="normal"
+        programGroup="yes"
+		desktop="yes"
+        applications="no"
+        startMenu="no"
+		startup="no">
+	</shortcut>	
+</shortcuts>
